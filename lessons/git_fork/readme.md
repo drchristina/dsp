@@ -57,5 +57,5 @@ Here's your first chance to practice this:
 
 What is your favorite emoji?  (Check out this [emoji cheat sheet](http://www.emoji-cheat-sheet.com/).)
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+My favourite emoji? Tough one, but I have to choose either :monkey_face: or :tada:
 
