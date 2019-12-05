@@ -47,7 +47,7 @@ import sklearn
 
 Did you install Python 2 or 3? Why?  
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+Python 3 — the syntax is much more intuitive for me, and Anaconda provides this automatically
 
 ### Q2. Which Python Version Installed   
 
@@ -55,7 +55,8 @@ In the Terminal:
 
 `python3 --version`
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+This only worked with `ipython3 --version` (since I am completing this on a Windows until my Mac comes through)
+Answer: `7.4.0`
 
  
 
